@@ -1,8 +1,8 @@
 <div align=center>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmarobiana%2Fhit-counter&count_bg=%23FF9CB1&title_bg=%2341606C&icon=&icon_color=orange&title=hits&edge_flat=false)](https://github.com/soongu)
-![](https://img.shields.io/github/followers/soongu?style=social)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmarobiana%2Fhit-counter&count_bg=%23FF9CB1&title_bg=%2341606C&icon=&icon_color=orange&title=hits&edge_flat=false)](https://github.com/oslob99)
+![](https://img.shields.io/github/followers/oslob99?style=social)
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
 
@@ -30,10 +30,10 @@
   
 <hr>
 
-[![Soongu's GitHub stats](https://github-readme-stats.vercel.app/api?username=soongu&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![oslob99's GitHub stats](https://github-readme-stats.vercel.app/api?username=oslob99&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
     
 
-[![Soongu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soongu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![oslob99's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oslob99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&section=footer)
