@@ -6,7 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
 
-<h1> ⚽oslob⚽ </h1>
+<h1> oslob👟                ...⚽ </h1>
 <h3>📚 Tech Stack 📚</h3>
 
 
