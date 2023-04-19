@@ -3,8 +3,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmarobiana%2Fhit-counter&count_bg=%23FF9CB1&title_bg=%2341606C&icon=&icon_color=orange&title=hits&edge_flat=false)](https://github.com/oslob99)
 ![](https://img.shields.io/github/followers/oslob99?style=social)
+ 
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
+<!--  <h1>WELLCOME~</h1> -->
+ <br>
+ <img src="KakaoTalk_20230419_130835097.gif"> 
 
 <h1> ⚽ KYUNGHOON ⚽</h1>
 <h3>📚 Tech Stack 📚</h3>
@@ -34,7 +38,7 @@
 
 [![oslob99's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oslob99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="KakaoTalk_20230419_130835097.gif"> <br>
+
 ![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&section=footer)
   
   
