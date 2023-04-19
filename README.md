@@ -34,7 +34,7 @@
 
 [![oslob99's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oslob99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<img src="KakaoTalk_20230419_130835097.gif"> <br>
 ![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&section=footer)
   
   
