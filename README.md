@@ -8,7 +8,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
 <!--  <h1>WELLCOME~</h1> -->
  <br>
- <img src="KakaoTalk_20230419_130835097.gif"> 
+ <img src="tumblr_o1dmptIKzu1sv5krro1_540.gif"> 
 
 <h1> ⚽ KYUNGHOON ⚽</h1>
 <h3>📚 Tech Stack 📚</h3>
