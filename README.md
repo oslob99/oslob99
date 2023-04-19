@@ -6,7 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
 
-![](./치킨.gif)
+                                        ⚽oslob⚽
 
 <h3>📚 Tech Stack 📚</h3>
 
