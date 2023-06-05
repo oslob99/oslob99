@@ -10,7 +10,7 @@
  <br>
  <img src="tumblr_o1dmptIKzu1sv5krro1_540.gif"> 
 
-<h1> ⚽ KYUNGHOON ⚽</h1>
+<h1> ⚽  KYUNGHOON  ⚽</h1>
 <h3>📚 Tech Stack 📚</h3>
 
 
