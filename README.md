@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat&logo=Spring Boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring Security-6db33f?style=flat&logo=Spring Security&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/hibernate?style=flat&logo=JPA&logoColor=white" />
+<img src="https://img.shields.io/badge/jpa?style=flat&logo=hibernate&logoColor=white" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-003545?style=flat&logo=PostgreSQL&logoColor=white" />
 
